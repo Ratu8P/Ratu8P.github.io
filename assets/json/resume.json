@@ -115,15 +115,7 @@
       "name": "Programming Languages",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Java",
-        "Python",
-        "C/C++",
-        "JavaScript",
-        "TypeScript",
-        "SQL",
-        "HTML5/CSS3"
-      ]
+      "keywords": ["Java", "Python", "C/C++", "JavaScript", "TypeScript", "SQL", "HTML5/CSS3"]
     },
     {
       "name": "Frameworks & Libraries",
@@ -147,34 +139,13 @@
       "name": "Databases & Cloud",
       "level": "Advanced",
       "icon": "fa-solid fa-cloud",
-      "keywords": [
-        "MySQL",
-        "PostgreSQL",
-        "MongoDB",
-        "DynamoDB",
-        "Redis",
-        "AWS S3",
-        "AWS Lambda",
-        "Amazon SES",
-        "Google Cloud Platform"
-      ]
+      "keywords": ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB", "Redis", "AWS S3", "AWS Lambda", "Amazon SES", "Google Cloud Platform"]
     },
     {
       "name": "DevOps & Tools",
       "level": "Intermediate",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "Docker",
-        "Kubernetes",
-        "Jenkins",
-        "CI/CD",
-        "Git",
-        "Nginx",
-        "Kafka",
-        "RabbitMQ",
-        "JMeter",
-        "Linux"
-      ]
+      "keywords": ["Docker", "Kubernetes", "Jenkins", "CI/CD", "Git", "Nginx", "Kafka", "RabbitMQ", "JMeter", "Linux"]
     }
   ],
   "languages": [
@@ -193,24 +164,12 @@
     {
       "name": "Artificial Intelligence",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Machine Learning",
-        "Computer Vision",
-        "Autonomous Driving",
-        "Deep Learning",
-        "Object Detection"
-      ]
+      "keywords": ["Machine Learning", "Computer Vision", "Autonomous Driving", "Deep Learning", "Object Detection"]
     },
     {
       "name": "Distributed Systems",
       "icon": "fa-solid fa-network-wired",
-      "keywords": [
-        "Microservices",
-        "Cloud Computing",
-        "Scalability",
-        "Performance Optimization",
-        "System Architecture"
-      ]
+      "keywords": ["Microservices", "Cloud Computing", "Scalability", "Performance Optimization", "System Architecture"]
     }
   ],
   "references": [],

@@ -56,12 +56,14 @@ Roanoke College, Salem, VA
 ## Recent Experience
 
 **Software Development Engineer Intern** | Healthy Claws, New York, NY (Apr 2024 - Aug 2024)
+
 - Developed enterprise order management platform with microservices architecture using Spring Cloud and Eureka
 - Optimized MySQL query performance, reducing response time from 2.5s to 112ms through index optimization
 - Implemented JWT-based authentication and authorization with Spring Security
 - Built CI/CD pipeline with Docker, AWS, and Jenkins, reducing deployment cycles
 
 **Research Engineer Intern** | Changjia Fengxing Intelligent Technology (Jan 2024 - Aug 2024)
+
 - Developed vehicle-infrastructure cooperative 3D object detection model, achieving 2.5% improvement in 3D AP and BEV AP
 - Built multi-modal collaborative perception system integrating camera and LiDAR data with 8% performance improvement
 - Contributed to research published in NeurIPS 2023
