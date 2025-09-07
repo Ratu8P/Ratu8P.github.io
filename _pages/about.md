@@ -2,33 +2,76 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer Science Graduate Student | Software Engineer | AI/ML Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: user_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>206-609-8522</p>
+    <p>hbxzhang@gmail.com</p>
+    <p>Seattle, WA</p>
+    <p>Eligible to work under OPT (F-1) or TN visa</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Haobo (Louie) Zhang, a Computer Science graduate student at Northeastern University (3.9/4.0 GPA) with a passion for building scalable distributed systems and AI-powered applications. My expertise spans full-stack development, cloud architecture, and machine learning, with hands-on experience in enterprise-level software engineering.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Education
+
+**Master of Science in Computer Science** (Sept 2022 - May 2025)  
+Northeastern University, Seattle, WA | GPA: 3.9/4.0
+
+**Master of Professional Accounting** (Aug 2019 - Oct 2020)  
+Brock University, St. Catharines, ON, Canada
+
+**Bachelor of Business Administration** (Aug 2015 - May 2019)  
+Roanoke College, Salem, VA
+
+## Technical Skills
+
+**Languages:** Java, Python, C/C++, JavaScript, TypeScript, SQL, HTML5/CSS3
+
+**Frameworks & Libraries:** React, React Native, Next.js, Node.js, SpringCloud, SpringBoot, Flask, Django, MyBatis, Spring Data JPA, D3.js
+
+**Databases & Cloud:** MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, AWS S3, AWS Lambda, Amazon SES, Google Cloud Platform
+
+**Tools & Technologies:** Nginx, Kafka, RabbitMQ, Docker, Kubernetes, Jira, JUnit, CI/CD, Git, Postman, Linux, Conda
+
+## Recent Experience
+
+**Software Development Engineer Intern** | Healthy Claws, New York, NY (Apr 2024 - Aug 2024)
+- Developed enterprise order management platform with microservices architecture using Spring Cloud and Eureka
+- Optimized MySQL query performance, reducing response time from 2.5s to 112ms through index optimization
+- Implemented JWT-based authentication and authorization with Spring Security
+- Built CI/CD pipeline with Docker, AWS, and Jenkins, reducing deployment cycles
+
+**Research Engineer Intern** | Changjia Fengxing Intelligent Technology (Jan 2024 - Aug 2024)
+- Developed vehicle-infrastructure cooperative 3D object detection model, achieving 2.5% improvement in 3D AP and BEV AP
+- Built multi-modal collaborative perception system integrating camera and LiDAR data with 8% performance improvement
+- Contributed to research published in NeurIPS 2023
+
+## Featured Projects
+
+**YVR-Voyage-Watch** (Sept 2024 - Jan 2025)  
+Mobile application using React Native with YOLOv8 and OpenCV for real-time object detection, optimized with TensorRT for <55ms processing time per frame.
+
+**Scalable Distributed Ski Data System** (May 2024 - Aug 2024)  
+Built distributed cloud system with Java and AWS EC2, scaling from 1M to 5M records through JVM optimization and Redis caching strategy.
+
+I'm passionate about leveraging technology to solve complex problems and always eager to explore new challenges in software engineering and AI research.

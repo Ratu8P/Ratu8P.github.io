@@ -1,200 +1,245 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haobo (Louie) Zhang",
+    "label": "Software Engineer & AI/ML Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hbxzhang@gmail.com",
+    "phone": "206-609-8522",
+    "url": "https://github.com/Ratu8P",
+    "summary": "Computer Science graduate student with expertise in full-stack development, distributed systems, and AI/ML. Experienced in building scalable enterprise applications and conducting cutting-edge research in autonomous driving systems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Seattle",
       "countryCode": "US",
-      "region": "California"
+      "region": "Washington"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "haobo-zhang",
+        "url": "https://linkedin.com/in/haobo-zhang"
+      },
+      {
+        "network": "GitHub",
+        "username": "Ratu8P",
+        "url": "https://github.com/Ratu8P"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Healthy Claws",
+      "position": "Software Development Engineer Intern",
+      "url": "",
+      "startDate": "2024-04-01",
+      "endDate": "2024-08-01",
+      "summary": "Developed enterprise order management platform with microservices architecture, optimized database performance, and built CI/CD pipelines.",
+      "highlights": [
+        "Developed enterprise order management platform with microservices architecture using Spring Cloud and Eureka",
+        "Optimized MySQL query performance, reducing response time from 2.5s to 112ms through index optimization",
+        "Implemented JWT-based authentication and authorization with Spring Security",
+        "Built CI/CD pipeline with Docker, AWS, and Jenkins, reducing deployment cycles"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Changjia Fengxing Intelligent Technology Co., Ltd",
+      "position": "Research Engineer Intern",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-08-01",
+      "summary": "Conducted cutting-edge research in autonomous driving systems, developing 3D object detection models and multi-modal perception systems.",
+      "highlights": [
+        "Developed vehicle-infrastructure cooperative 3D object detection model, achieving 2.5% improvement in 3D AP and BEV AP",
+        "Built multi-modal collaborative perception system integrating camera and LiDAR data with 8% performance improvement",
+        "Contributed to research published in NeurIPS 2023",
+        "Collaborated with scientists and domain experts to shape future research directions"
+      ]
+    },
+    {
+      "name": "Edith-Min International Inc.",
+      "position": "Management Information System Analyst",
+      "url": "",
+      "startDate": "2020-11-01",
+      "endDate": "2022-07-01",
+      "summary": "Analyzed business requirements and designed information systems solutions to optimize operational efficiency.",
+      "highlights": [
+        "Turned query analytics into performance wins by redesigning indexes and access patterns",
+        "Defined logical and physical service architecture for large information systems",
+        "Partnered with vendors to design operational databases and established SAP EDI integrations",
+        "Built data pipelines for demand clustering and forecasting on 200k+ orders using K-Means and ARIMA"
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Northeastern University",
+      "location": "Seattle, WA",
+      "url": "https://www.northeastern.edu/",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2022-09-01",
+      "endDate": "2025-05-01",
+      "score": "3.9",
+      "courses": ["Algorithms", "Distributed Systems", "Machine Learning", "Database Systems"]
+    },
+    {
+      "institution": "Brock University",
+      "location": "St. Catharines, ON, Canada",
+      "url": "https://brocku.ca/",
+      "area": "Professional Accounting",
+      "studyType": "Master",
+      "startDate": "2019-08-01",
+      "endDate": "2020-10-01",
+      "score": "",
+      "courses": ["Financial Accounting", "Management Accounting", "Taxation", "Auditing"]
+    },
+    {
+      "institution": "Roanoke College",
+      "location": "Salem, VA",
+      "url": "https://www.roanoke.edu/",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "2015-08-01",
+      "endDate": "2019-05-01",
+      "score": "",
+      "courses": ["Business Strategy", "Finance", "Marketing", "Operations Management"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Java",
+        "Python",
+        "C/C++",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "HTML5/CSS3"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "level": "Advanced",
+      "icon": "fa-solid fa-layer-group",
+      "keywords": [
+        "React",
+        "React Native",
+        "Next.js",
+        "Node.js",
+        "SpringCloud",
+        "SpringBoot",
+        "Flask",
+        "Django",
+        "MyBatis",
+        "Spring Data JPA",
+        "D3.js"
+      ]
+    },
+    {
+      "name": "Databases & Cloud",
+      "level": "Advanced",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "DynamoDB",
+        "Redis",
+        "AWS S3",
+        "AWS Lambda",
+        "Amazon SES",
+        "Google Cloud Platform"
+      ]
+    },
+    {
+      "name": "DevOps & Tools",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-tools",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "CI/CD",
+        "Git",
+        "Nginx",
+        "Kafka",
+        "RabbitMQ",
+        "JMeter",
+        "Linux"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Chinese (Mandarin)",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-robot",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Computer Vision",
+        "Autonomous Driving",
+        "Deep Learning",
+        "Object Detection"
+      ]
+    },
+    {
+      "name": "Distributed Systems",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "Microservices",
+        "Cloud Computing",
+        "Scalability",
+        "Performance Optimization",
+        "System Architecture"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "YVR-Voyage-Watch",
+      "summary": "Mobile application using React Native with YOLOv8 and OpenCV for real-time object detection, optimized with TensorRT for sub-55ms processing time per frame.",
+      "highlights": [
+        "Developed mobile app with React Native for real-time object detection",
+        "Optimized YOLOv8 model with TensorRT and quantization for <55ms processing time",
+        "Accelerated video processing using CUDA supporting 10 parallel streams",
+        "Integrated Firebase Firestore and Storage with offline persistence"
+      ],
+      "startDate": "2024-09-01",
+      "endDate": "2025-01-01",
+      "url": ""
+    },
+    {
+      "name": "Scalable Distributed Ski Data System",
+      "summary": "Built distributed cloud system with Java and AWS EC2, scaling from 1M to 5M ski lift data records through JVM optimization and Redis caching strategy.",
+      "highlights": [
+        "Designed and built distributed cloud system with Java and AWS EC2",
+        "Optimized JVM memory management to eliminate memory bottlenecks",
+        "Implemented Redis caching with LRU strategy, reducing query latency from 200ms to 50ms",
+        "Conducted high-concurrency stress testing with JMeter simulating 4,000 requests per second"
+      ],
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-01",
+      "url": ""
     }
   ]
 }
