@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Ratu8P
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Ratu8P/Ratu8P.github.io
+  - Ratu8P/ASL_Recognition
+  - Ratu8P/Computer-Vision-Projects
+  - Ratu8P/Emotion_Recognition
+  - Ratu8P/Ski_Resort_API-3.0
+  - Ratu8P/Soccer_team_generator
