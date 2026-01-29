@@ -295,7 +295,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/assets/pdf/Resume_Haobo_Zhang.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
