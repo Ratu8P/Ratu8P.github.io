@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Seattle",
+      "city": "San Jose",
       "countryCode": "US",
-      "region": "Washington"
+      "region": "California"
     },
     "profiles": [
       {
@@ -28,6 +28,20 @@
     ]
   },
   "work": [
+    {
+      "name": "SK Hynix Memory Solutions America",
+      "position": "Software Engineer Intern",
+      "url": "",
+      "startDate": "2025-10-13",
+      "endDate": "Present",
+      "summary": "Developed automation and AI assisted tooling to improve enterprise PCIe SSD validation efficiency, failure analysis, and system reliability.",
+      "highlights": [
+        "Developed Python based test automation frameworks for system level SSD validation, including test orchestration, log collection, and structured result reporting",
+        "Supported PCIe SSD validation and debugging by reproducing complex failures, isolating root causes, and collaborating with application and system engineers",
+        "Built AI assisted engineering utilities using Retrieval Augmented Generation to accelerate troubleshooting, knowledge retrieval, and validation triage",
+        "Applied machine learning techniques for log mining and anomaly detection to identify failure signatures and reduce manual log analysis effort"
+      ]
+    },
     {
       "name": "Healthy Claws",
       "position": "Software Development Engineer Intern",
@@ -86,7 +100,7 @@
     },
     {
       "institution": "Brock University",
-      "location": "St. Catharines, ON, Canada",
+      "location": "St. Catharines, ON",
       "url": "https://brocku.ca/",
       "area": "Professional Accounting",
       "studyType": "Master",

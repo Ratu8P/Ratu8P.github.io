@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>206-609-8522</p>
-    <p>hbxzhang@gmail.com</p>
-    <p>Seattle, WA</p>
+    <p>hbxzhang@gmail.com</p>v
+    <p>San Jose, CA</p>
     <p>Eligible to work under OPT (F-1) or TN visa</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -54,6 +54,13 @@ Roanoke College, Salem, VA
 **Tools & Technologies:** Nginx, Kafka, RabbitMQ, Docker, Kubernetes, Jira, JUnit, CI/CD, Git, Postman, Linux, Conda
 
 ## Recent Experience
+
+**Software Engineer Intern** | SK Hynix Memory Solution America, San Jose, CA (Oct 2025 - Present)
+
+- Supported enterprise PCIe SSD validation and debug, partnering with Application Engineering and system engineers to reproduce failures, isolate root causes, and improve product reliability
+- Developed and maintained Python-based test automation to streamline validation workflows, including test orchestration, log collection, and resultreporting for system-level testing
+- Built AI-assisted engineering utilities using Retrieval-Augmented Generation (RAG) and related workflows to accelerate troubleshooting, knowledgeretrieval, and validation triage
+- Applied ML techniques for log mining and anomaly detection to surface failure signatures, reduce manual log review, and improve debug efficiency
 
 **Software Development Engineer Intern** | Healthy Claws, New York, NY (Apr 2024 - Aug 2024)
 
